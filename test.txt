@@ -2,4 +2,7 @@ the first line
 the second line
 the third line on branch1
 the fifth line merge
+合并后内容
 master add
+merge分支添加内容
+合并后内容
