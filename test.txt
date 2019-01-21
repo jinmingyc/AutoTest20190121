@@ -2,3 +2,4 @@ the first line
 the second line
 the third line on branch1
 the fifth line merge
+master add
